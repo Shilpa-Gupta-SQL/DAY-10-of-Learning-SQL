@@ -13,4 +13,4 @@
 ⭐ Where Subqueries Are Used ->
 * In the WHERE clause for filtering, 
 * In the SELECT clause for calculations, 
-* In the FROM clause as a temporary table (subquery table)
+* In the FROM clause as a temporary table (subquery table) 
